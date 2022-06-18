@@ -2,16 +2,14 @@
     width: 176px;
     height: 52px;
     background-image: url(../../../images/header-logo.svg);
-    background-position:center center;
+    background-position: center center;
     background-color: #2a2f2c;
     background-size: cover;
-
-
 }
 
-@media screen and (max-width:518px ) {
+@media screen and (max-width:518px) {
     .header__logo {
         width: 142px;
-        height: 42px;;
-}
+        height: 42px;
+        }
 }
