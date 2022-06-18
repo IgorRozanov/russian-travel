@@ -1,0 +1,14 @@
+.figure {
+    margin: 0;
+    padding: 0;
+    max-width: 984px;
+    max-height: 615px;
+    
+}
+
+@media screen and (max-width:1140px) {
+    .figure {
+max-width: 928px;
+max-height: 602px;
+    }
+}
