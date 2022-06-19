@@ -1,13 +1,14 @@
 .header__link {
     color: white;
-    margin-right: 18px;
-    max-width: 30px;
-    max-height: 28px;
-    padding-bottom: 6px;
-}
+    text-decoration: none
+ }
 
 .header__link:last-of-type {
     margin-right: 0;
+}
+
+.header__link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width:518px ) {
