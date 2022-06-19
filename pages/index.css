@@ -38,9 +38,10 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/figure/figure.css);
-@import url(../blocks/intro/__list/_bold/intro__list_bold.css);
 @import url(../blocks/header/__list/header__list.css);
 @import url(../blocks/header/__link/_active/header__link_active.css);
+@import url(../blocks/intro/__list-400/intro__list-400.css);
+
 
 
 
