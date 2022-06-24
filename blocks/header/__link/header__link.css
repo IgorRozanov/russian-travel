@@ -1,11 +1,9 @@
 .header__link {
     color: white;
     text-decoration: none;
+    margin-left: 18px;
  }
 
-.header__link:last-of-type {
-    margin-right: 0;
-}
 
 .header__link:hover {   
     opacity: 0.8;
@@ -15,7 +13,7 @@
     .header__link {
         margin-right: 18px;
         max-width: 20px;
-        max-height: 22px;
+        min-height: 22px;
 }
 }
 
