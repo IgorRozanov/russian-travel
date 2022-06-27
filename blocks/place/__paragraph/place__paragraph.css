@@ -22,7 +22,7 @@
 
 @media screen and (max-width:568px) {
     .place__paragraph {
-        max-width: 320px;
+        max-width: 288px;
         grid-column: 1/1;
         grid-row: 4/4;
         margin-left: 8px;
